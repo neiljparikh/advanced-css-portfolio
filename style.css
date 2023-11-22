@@ -36,3 +36,23 @@ nav ul li a {
     margin-bottom: 20px;
     font-size: 1em;
 }
+
+img {
+
+    padding: 20px;
+}
+
+h1 {
+
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+.work h2 {   text-align: center;
+  
+}
+
+#id-project {
+    border: solid powderblue 2pt; 
+}
