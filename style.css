@@ -1,0 +1,38 @@
+
+* {
+    font-family: sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+    padding: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#about {
+    text-align: center;
+    padding: 100px;
+    background-color: #f3f3f3;
+}
+
+#about h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+#about p {
+    color: black;
+    margin-bottom: 20px;
+    font-size: 1em;
+}
